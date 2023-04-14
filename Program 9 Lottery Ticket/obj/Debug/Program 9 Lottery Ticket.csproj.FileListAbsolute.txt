@@ -1,0 +1,20 @@
+D:\CIS 2324-001\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.exe.config
+D:\CIS 2324-001\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.exe
+D:\CIS 2324-001\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.pdb
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.AssemblyReference.cache
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program_9_Lottery_Ticket.Form1.resources
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program_9_Lottery_Ticket.Properties.Resources.resources
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.GenerateResource.cache
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.CoreCompileInputs.cache
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.exe
+D:\CIS 2324-001\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.pdb
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.exe.config
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.exe
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\bin\Debug\Program 9 Lottery Ticket.pdb
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.AssemblyReference.cache
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program_9_Lottery_Ticket.Form1.resources
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program_9_Lottery_Ticket.Properties.Resources.resources
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.GenerateResource.cache
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.csproj.CoreCompileInputs.cache
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.exe
+D:\Master Folder\Good_IS2324_Code\PROG9\Program 9 Lottery Ticket by India Gonzales\Program 9 Lottery Ticket\obj\Debug\Program 9 Lottery Ticket.pdb
